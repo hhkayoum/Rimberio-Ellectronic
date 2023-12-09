@@ -21,3 +21,12 @@
 ## Deleting Products:
 
 - Describe how users can delete products. Highlight the steps involved and any confirmation or verification processes to ensure the intentional removal of a product.
+
+## Technologies Used
+
+- **React:** A JavaScript library for building user interfaces.
+- **MongoDB:** A NoSQL database for storing and retrieving data.
+- **Express:** A minimal and flexible Node.js web application framework.
+- **Tailwind CSS:** A utility-first CSS framework for efficient styling.
+- **Firebase:** Utilized for additional features like authentication and real-time database.
+- **React Libraries:** Various React libraries were employed to enhance functionality and improve the user experience. (Feel free to list specific libraries you've used)
