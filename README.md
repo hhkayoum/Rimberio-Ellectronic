@@ -30,3 +30,11 @@
 - **Tailwind CSS:** A utility-first CSS framework for efficient styling.
 - **Firebase:** Utilized for additional features like authentication and real-time database.
 - **React Libraries:** Various React libraries were employed to enhance functionality and improve the user experience. (Feel free to list specific libraries you've used)
+
+## Hosting Platforms
+
+This project can be hosted on the following platforms:
+
+- **Netlify:** For easy deployment, connect your GitHub repository to Netlify and configure build settings.
+
+- **Vercel:** Alternatively, import your project on Vercel, set up environment variables for MongoDB and Firebase, and deploy.
