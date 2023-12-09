@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+[data-theme="dark"] .dark-bg-black {
+  background-color: #191e24;
+}
+a {
+  font-weight: 600;
+}
+.menu li a:hover {
+  background-color: rgba(0, 0, 0, 0) !important;
+  text-decoration: underline;
+}
+
+a.active {
+  background-color: rgba(0, 0, 0, 0) !important;
+  /* color: #f7c359 !important; */
+  color: #f2101e !important;
+  font-weight: 700;
+}

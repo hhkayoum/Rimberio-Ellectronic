@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/Q8Rmh6N/364185057-1332444171040193-5180590086340658271-n-removebg-preview.png",
+    "brand": "Apple",
+    "sliderImg": [
+      "https://i.ibb.co/vH8QDL6/1663146294241-jpg.webp",
+      "https://i.ibb.co/LCFsXXr/1696928510723a9090d981b7b4750ab324bf609a02756-jpg.webp",
+      "https://i.ibb.co/9y0GZHN/1643017096290-jpg.webp"
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/KsNqDcv/samsung-logo-icon-south-korean-260nw-2269709285.webp",
+    "brand": "Samsung",
+    "sliderImg": [
+      "https://i.ibb.co/vH8QDL6/1663146294241-jpg.webp",
+      "https://i.ibb.co/LCFsXXr/1696928510723a9090d981b7b4750ab324bf609a02756-jpg.webp",
+      "https://i.ibb.co/9y0GZHN/1643017096290-jpg.webp"
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/x2LNPG2/394631672-6754353911268459-4344088747977667499-n-removebg-preview.png",
+    "brand": "Google",
+    "sliderImg": [
+      "https://i.ibb.co/vH8QDL6/1663146294241-jpg.webp",
+      "https://i.ibb.co/LCFsXXr/1696928510723a9090d981b7b4750ab324bf609a02756-jpg.webp",
+      "https://i.ibb.co/9y0GZHN/1643017096290-jpg.webp"
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/8jzvMZJ/realme-logo-a.jpg",
+    "brand": "Realme",
+    "sliderImg": [
+      "https://i.ibb.co/vH8QDL6/1663146294241-jpg.webp",
+      "https://i.ibb.co/LCFsXXr/1696928510723a9090d981b7b4750ab324bf609a02756-jpg.webp",
+      "https://i.ibb.co/9y0GZHN/1643017096290-jpg.webp"
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/716Z9Yb/393493828-1010079106711315-8073717898940649632-n-removebg-preview.png",
+    "brand": "Redmi",
+    "sliderImg": [
+      "https://i.ibb.co/vH8QDL6/1663146294241-jpg.webp",
+      "https://i.ibb.co/LCFsXXr/1696928510723a9090d981b7b4750ab324bf609a02756-jpg.webp",
+      "https://i.ibb.co/9y0GZHN/1643017096290-jpg.webp"
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/FD83Wkw/312554580-793737635194133-2711473518076383089-n-removebg-preview.png",
+    "brand": "Vivo"
+  }
+]

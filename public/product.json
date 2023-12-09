@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Samsung-Galaxy-S23-Ultra",
+    "image": "https://i.ibb.co/Rzj5B2y/Samsung-Galaxy-S23-Ultra-Price-Features-Reviews-AT-T-removebg-preview.png",
+    "price": "$823.45",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "name": "Apple-Watch",
+    "image": "https://i.ibb.co/km88YyC/Color-Block-Watchband-Compatible-With-Apple-Watch-removebg-preview.png",
+    "price": "$867.89",
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "name": "IPhone-15-Pro-Max",
+    "image": "https://i.ibb.co/j3JHPyv/Apple-IPhone-15-Pro-Max-Features-And-Price-In-Dubai-removebg-preview.png",
+    "price": "$999.99",
+    "rating": 3
+  },
+  {
+    "id": 4,
+    "name": "Apple-Air-Pods",
+    "image": "https://i.ibb.co/BPjdfnH/Experience-Luxury-Sound-Quality-Apple-Air-Pods-Max-in-Stunning-Silver-removebg-preview.png",
+    "price": "$754.50",
+    "rating": 4
+  },
+  {
+    "id": 5,
+    "name": "Apple-s-New-i-Pad-Air",
+    "image": "https://i.ibb.co/yfGLgPR/Apple-s-New-i-Pad-Air-Is-60-Times-Faster-Than-Previous-Editions-and-It-s-Already-on-Sale-removebg-pr.png",
+    "price": "$1199.99",
+    "rating": 5
+  },
+  {
+    "id": 6,
+    "name": "Samsung-Galaxy-ZFold",
+    "image": "https://i.ibb.co/P69cywx/Samsung-Galaxy-Z-Fold-3-DS-F926-5-G-12-256-GB-Silver.jpg",
+    "price": "$1149.95",
+    "rating": 3
+  },
+  {
+    "id": 7,
+    "name": "Google-Pixel-7-Pro",
+    "image": "https://i.ibb.co/dBD3cDD/Google-Pixel-7-Pro-removebg-preview.png",
+    "price": "$479.99",
+    "rating": 4
+  },
+  {
+    "id": 8,
+    "name": "Samsung-Galaxy-S22-Ultra",
+    "image": "https://i.ibb.co/4pktSkb/i-n-tho-i-Samsung-Galaxy-S22-Ultra-removebg-preview.png",
+    "price": "$534.95",
+    "rating": 5
+  }
+]
